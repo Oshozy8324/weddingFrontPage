@@ -44,6 +44,7 @@ background: url(.png);
 .words{
     display: flex;
     flex-direction: column;
+    color: #5E194E;
 }
 .words h1{
     font-size: 48px;
