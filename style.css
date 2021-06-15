@@ -67,5 +67,7 @@ img{
     object-fit: contain;
 }
 .flo{
-    width: 418px;
+    width: 350px;
+    margin-top: auto;
+    
 }
